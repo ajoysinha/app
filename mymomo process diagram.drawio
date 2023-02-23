@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T08:13:35.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="or8KvWyZTbvjvhI-SxzG" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T08:19:35.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jq7JYkCraIPokq8v0brA" version="20.8.23" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="KITCHEN PROCESS">
     <mxGraphModel dx="733" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,30 @@
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="CLOSE" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="240" width="660" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IN1j2IDgoaVl5yq2tUnt-7" value="8 AM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IN1j2IDgoaVl5yq2tUnt-8" value="10 AM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IN1j2IDgoaVl5yq2tUnt-9" value="12 AM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IN1j2IDgoaVl5yq2tUnt-10" value="2 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IN1j2IDgoaVl5yq2tUnt-11" value="4 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IN1j2IDgoaVl5yq2tUnt-12" value="6 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="580" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IN1j2IDgoaVl5yq2tUnt-13" value="8 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="660" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IN1j2IDgoaVl5yq2tUnt-14" value="10 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
