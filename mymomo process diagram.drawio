@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T12:35:06.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nHbwYGG6SasBsu4mhl2B" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-23T12:37:10.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xKfQSrws7DNmreCc5Oco" version="20.8.23" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="KITCHEN PROCESS">
     <mxGraphModel dx="733" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="IN1j2IDgoaVl5yq2tUnt-14" value="10 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="740" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4LdwMEa9ievh76hwXGpk-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=9;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
